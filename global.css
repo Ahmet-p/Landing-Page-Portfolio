@@ -44,20 +44,20 @@ header nav a {
     margin-left: 20px;
 }
 
-/* CTA Button Styling */
+
 #hire-me {
-    background-color: chartreuse; /* Change background color */
-    color: black; /* Change text color for contrast */
-    padding: 7px 12px; /* Add padding */
-    border-radius: 5px; /* Round corners */
-    font-weight: bold; /* Make text bold */
+    background-color: chartreuse; 
+    color: black; 
+    padding: 7px 12px;
+    border-radius: 5px; 
+    font-weight: bold; 
     border-style: inherit;
-    transition: background-color 0.3s ease; /* Smooth transition on hover */
-    margin-left: 20px; /* Ensure consistent spacing */
+    transition: background-color 0.3s ease; 
+    margin-left: 20px; 
 }
 
 #hire-me:hover {
-    background-color: rgb(0, 255, 191); /* Change background color on hover */
+    background-color: rgb(0, 255, 191); 
 }
 .left-nav {
     display: flex;
@@ -70,7 +70,7 @@ header nav a {
     margin-left: 10px;
 }
 
-/* Right navigation styling */
+
 .right-nav {
     display: flex;
     align-items: center;
@@ -82,7 +82,7 @@ header nav a {
     margin-left: 15px;
 }
 
-/* Override global header nav a to ensure consistency */
+
 header nav a {
     text-decoration: none;
     color: white;
